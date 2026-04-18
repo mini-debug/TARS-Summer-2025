@@ -18,7 +18,7 @@ from websocket import create_connection
 socket.socket = socks.socksocket
 
 # OpenAI API
-API_KEY = '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'
+API_KEY = "This is where it goes as it runs, for saftey not in this repo" 
 
 # WebSocket server URL (real-time speech conversion interface)
 WS_URL = 'wss://api.openai.com/v1/realtime?model=gpt-4o-mini-realtime-preview-2024-12-17'
